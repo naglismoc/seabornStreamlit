@@ -1,0 +1,24 @@
+
+1. susikurti nauja projekta, papushinti į github
+2. prisijungti prie parduotuvių prekių duomenų bazės ir consolėje iššspausdinti prekių sąrašą
+3. pabandyti su matplotlib arba seaborn atvaizduoti:
+    3.1 vienos kategorijos prekes:
+        pavadinimas, kaina
+        items [
+            ['geri grikiai', 7.18],
+            ['maziau geri grikiai', 6.6]
+        ]
+    3.2 kategorijų prekių kiekius
+    3.3 kategorijų kainų vidurkius
+    3.4 ką Tomas sakė. candle stickai :D
+4. su keliom parduotuvėmis:
+    4.x padaryti tą patį, tik atvaizduoti visų parduotuvių duomenis: atskirose lentelėse, ir vienoje lentnelėje
+
+
+Streamlit
+    1. Padaryti gražų ir patogų atvaizdavimą
+        1.1 multiple select parduotuvėms. parduotuvių sąrašas generuojamas dinamiškai, pagal gautus duomenis iš SQL
+        1.2 pasirinkti prekių kategoriją 3.2 ir 3.3/4.2 ir 4.3 atvaizdavimui.
+
+
+
